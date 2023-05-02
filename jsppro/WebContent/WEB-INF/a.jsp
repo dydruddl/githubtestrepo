@@ -12,7 +12,12 @@ push 연습
 user1 브랜치에서 이게 보이나???
 =======
 master는 다 보이나봐
+<<<<<<< HEAD
 user1 master 합치기 확인ㅇㅇㅇ
+>>>>>>> branch 'master' of https://github.com/dydruddl/myproject.git
+=======
+user1 master 합치기 확인
+user1에서만 보이기
 >>>>>>> branch 'master' of https://github.com/dydruddl/myproject.git
 </body>
 </html>
