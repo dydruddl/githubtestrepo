@@ -8,5 +8,6 @@
 </head>
 <body>
 user1브랜치에서 수정 -> push 명령 -> master branch에 합치기
+5월2일 출석완료!
 </body>
 </html>
